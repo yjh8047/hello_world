@@ -44,7 +44,7 @@ int main()
 			int pre = num[j][0];
 			for (int i = 1; i < y; ++i)
 			{
-				num[j][0] += num[j][i];
+				num[j][0] += num[j][i];	// great
 			}
 			for (int i = 1; i <= n - y; ++i)
 			{
