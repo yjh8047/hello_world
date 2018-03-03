@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-int num[999][999];
+int num[999][999];	// ¶şÎ¬Êı×é
 
 int input()
 {
