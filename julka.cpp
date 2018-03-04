@@ -102,6 +102,8 @@ int div_by_2(char* num, int len)
 	return num[len - 1] ? len : len - 1;
 }
 
+// Ö÷Èë¿Ú
+
 int main()
 {
 	char num1[NUM_SIZE], num2[NUM_SIZE];
