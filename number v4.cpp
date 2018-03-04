@@ -127,7 +127,7 @@ int main()
 	scanf("%d", &count);
 	for (int i = 0; i < count; ++i)
 	{
-		scanf("%lld", &inputs[i]);
+		scanf("%lld", &inputs[i]);	// ÊäÈë
 	}
 
 	cur_idx = 0;
